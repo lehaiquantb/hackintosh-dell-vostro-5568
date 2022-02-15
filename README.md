@@ -1,6 +1,6 @@
 # hackintosh-dell-vostro-5568
 Dell vostro 5568 (OpenCore 0.7.6)
-##Specs:
+## Specs:
 + Model: Laptop Dell Vostro 5568
 + CPU: 2.7 GHz Dual-Core Intel Core i5 7200U
 + GPU: Intel HD Graphics 620 1536 MB
@@ -8,7 +8,8 @@ Dell vostro 5568 (OpenCore 0.7.6)
 + Ethernet: Realtek RTL8168/8111 PCI-E
 + Wifi: Intel Dual Band Wireless-AC 3165 AC 
 + Audio Codec : Realtek ALC256
-##Work:
+
+## Work:
 + Wifi
 + Intel HD 620 Restart, Sleep and Shutdown
 + CPU Power Management, 
@@ -17,5 +18,6 @@ Dell vostro 5568 (OpenCore 0.7.6)
 + Touchpad
 + HDMI
 + All Port USB
-##Not work
+
+## Not work
 + Bluetooth
